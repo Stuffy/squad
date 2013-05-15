@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="25. JgBtl">
+	<name>25. Jaegerbataillon</name>
+	<email>info@25-jaegerbataillon.de</email>
+	<web>www.25-jaegerbataillon.de</web>
+	<picture>jgb25.paa</picture>
+	<title>25. JgBtl</title>
+
+	
+
+	<member id="548930AX" nick="TobbL">
+		<name>Tobbl</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<title>Gruppenkommandant Wolf</title>
+		<remark>Team Puma</remark>
+	<id>548930AX</id></member>
+
+	<member id="445762RFT" nick="Coldsmith">
+		<name>Coldsmith</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<title>Pionier</title>
+		<remark>Team Puma</remark>
+	<id>445762RFT</id></member>
+
+	<member id="48490758" nick="Andi">
+		<name>Andi</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<title>Hauptgefreiter</title>
+		<remark>Team Fuchs</remark>
+	<id>48490758</id></member>
+
+	<member id="50694534" nick="ghostD0C">
+		<name>ghostD0C</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<title>Gefreiter</title>
+		<remark>Team Fuchs</remark>
+	<id>50694534</id></member>
+
+	<member id="8629382" nick="Stuffy">
+		<name>Stuffy</name>
+		<email>stuffy@25-jaegerbataillon.de</email>
+		<icq>N/A</icq>
+		<title>Gruppenkommandant Piloten</title>
+		<remark>Team Puma</remark>
+	</member>
+
+	<member id="8639750" nick="Hackerbie">
+		<name>Hackerbie</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<title>Pilot</title>
+		<remark>Team Adler</remark>
+	</member>
+
+	<member id="28611654" nick="reher">
+		<name>reher</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<title>Gruppenkommandant Fennek</title>
+		<remark>Team Puma</remark>
+	<id>28611654</id></member>
+
+	<member id="81405510" nick="Sashify">
+		<name>Sashify</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<title>Sanitaeter</title>
+		<remark>Team Wolf</remark>
+	</member>
+
+	<member id="42059334" nick="Umpalumpa">
+		<name>Umpalumpa</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<title>Obergefreiter</title>
+		<remark>Team Fuchs</remark>
+	<id>42059334</id></member>
+
+	<member id="28710982" nick="StraussKueste69">
+		<name>StraussKueste69</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<title>Spaeher</title>
+		<remark>Team Fennek</remark>
+	</member>
+
+	<member id="91409798" nick="Makama">
+		<name>Makama</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<title>AT-Schuetze</title>
+		<remark>Team Wolf</remark>
+	</member>
+
+	
+
+	
+
+	<member id="100958022" nick="NICO1">
+        <name>NICO1</name>
+        <email>N/A</email>
+        <icq>N/A</icq>
+        <title>Gefreiter</title>
+        <remark>Team Wolf</remark>
+    <id>100958022</id></member>
+
+	<member id="95596550" nick="Cryser">
+		<name>Cryser</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<title>Gefreiter</title>
+		<remark>Team Fuchs</remark>
+	<id>95596550</id></member>
+
+	
+
+	<member id="28684230" nick="iFlashYou">
+		<name>iFlashYou</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<title>Gefreiter</title>
+		<remark>Team Adler</remark>
+	<id>28684230</id></member>
+
+	<member id="4902082" nick="Firepower">
+		<name>Firepower</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<title>Grenadier</title>
+		<remark>Team Wolf</remark>
+	<id>4902082</id></member>
+	
+<member id="55159174" nick="Pennywise"><name>Pennywise</name><email>N/A</email><icq>N/A</icq><title>Schuetze</title><remark>Team Wolf</remark><id>55159174</id></member><member id="42332166" nick="Cardiff Ranger"><name>Cardiff Ranger</name><email>N/A</email><icq>N/A</icq><title>Grenadier</title><remark>Team Wolf</remark></member><member id="78400518" nick="ILikeToPlay"><name>ILikeToPlay</name><email>N/A</email><icq>N/A</icq><title>Jaeger</title><remark>Jaeger</remark></member><member id="602754AX" nick="Carolus Rex"><name>Carolus Rex</name><email>N/A</email><icq>N/A</icq><title>Gefreiter</title><remark>Team Adler</remark><id>602754AX</id></member><member id="59050310" nick="Flexo"><name>Flexo</name><email>N/A</email><icq>N/A</icq><title>Jaeger</title><remark>Jaeger</remark></member><member id="1102594" nick="Uri"><name>Uri</name><email>N/A</email><icq>N/A</icq><title>Jaeger</title><remark>Jaeger</remark></member><member id="5751938" nick="Wolfpack"><name>Wolfpack</name><email>N/A</email><icq>N/A</icq><title>Hauptgefreiter</title><remark>Team Wolf</remark><id>5751938</id></member><member id="105930182" nick="Bauer"><name>Bauer</name><email>N/A</email><icq>N/A</icq><title>Gefreiter</title><remark>Team Fuchs</remark></member><member id="2762946" nick="Dinozzo"><name>Dinozzo</name><email>N/A</email><icq>N/A</icq><title>Jaeger</title><remark>Jaeger</remark></member><member id="17288838" nick="Fabi"><name>Fabi</name><email>N/A</email><icq>N/A</icq><title>Gefreiter</title><remark>Team Fuchs</remark></member><member id="N/A" nick="Chris"><name>Chris</name><email>N/A</email><icq>N/A</icq><title>Saniteater</title><remark>Team Wolf</remark><id>N/A</id></member><member id="N/A" nick="Chris"><name>Chris</name><email>N/A</email><icq>N/A</icq><title>Saniteater</title><remark>Team Wolf</remark><id>N/A</id></member><member id="N/A" nick="Augstar1"><name>Augstar1</name><email>N/A</email><icq>N/A</icq><title>Zugskommandant</title><remark>Team Puma</remark></member><member id="31138886" nick="Seron"><name>Seron</name><email>N/A</email><icq>N/A</icq><title>Gefreiter</title><remark>Team Wolf</remark></member><member id="6121346" nick="Paul"><name>Paul</name><email>N/A</email><icq>N/A</icq><title>Gefreiter</title><remark>Jaeger</remark><id>6121346</id></member></squad>

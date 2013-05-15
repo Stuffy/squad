@@ -1,0 +1,188 @@
+#container {
+	width: 100%;
+}
+
+#header {
+	width: 90%;
+	border: 1px solid black;
+	margin: 0px auto;
+}
+
+#topic {
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-size: 3.5em;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	background-color: rgb(174, 179, 153);
+}
+
+#web {
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-size: 1.5em;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	background-color: rgb(221, 228, 195);
+}
+
+#squadxml {
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-size: 12px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	background-color: rgb(210, 217, 184);
+}
+
+#web a {
+	text-decoration: none;
+}
+
+#content {
+	width: 90%;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	margin: 0px auto;
+	margin-top: 10px;
+}
+
+#content a {
+	color: red;
+}
+
+#content a:visited {
+	color: red;
+}
+
+#footer {
+	border: 1px solid black;
+	text-align: center;
+	padding-top: 10px;
+	width: 90%;
+	margin: 0px auto;
+	margin-top: 10px;
+	background-color: rgb(174, 179, 153);
+}
+
+#first {
+	margin-top: 0px;
+}
+
+.team {
+	margin: 0px auto;
+}
+
+.member_count {
+	font-size: 10px;
+}
+
+.team_topic {
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-size: 25px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	margin-bottom: 2px;
+	height: 35px;
+	background-color: rgb(226, 233, 199);
+}
+
+.team_topic_bg {
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-size: 25px;
+	width: 230px;
+	height: 35px;
+	padding-left: 10px;
+	text-align: center;
+	background-color: rgb(174, 179, 153);
+	border-right: 2px solid grey;
+	display: inline-block;
+}
+
+.team_topic_new {
+	display: inline-block;
+	height: 35px;
+	padding-left: 10px;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.member {
+
+}
+
+.member_topic_one {
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-size: 15px;
+	padding: 10px;
+	margin-left: 25px;
+	background-color: rgb(221, 228, 195);
+}
+
+.member_topic_two {
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-size: 15px;
+	padding: 10px;
+	margin-left: 25px;
+	background-color: rgb(210, 217, 184);
+}
+
+.property {
+
+}
+
+.defaultText { width: 300px; }
+.defaultTextActive { color: #a1a1a1; font-style: italic; }
+
+.property_topic {
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-size: 12px;
+	border-bottom: 1px dashed black;
+	padding: 10px;
+	margin-left: 50px;
+}
+
+.spoiler {
+	display: none;
+	background-color: #F5FBEF;
+	padding-bottom: 2px;
+}
+
+.spoiler_newmember {
+	display: none;
+	background-color: #F5FBEF;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	text-align: right;
+	width: 230px;
+}
+
+.spoiler_plus {
+	margin-left: 10px;
+	font-size: 20px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.spoiler_delete {
+	margin-left: 175px;
+	font-size: 10px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.spoiler_edit {
+	margin-left: 10px;
+	font-size: 10px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.new_member {
+	text-decoration: none;
+}
+
+.input_new {
+	width: 100px;
+}
+
+.edit_submit {
+	margin-left: 40px;
+}
